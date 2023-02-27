@@ -1,0 +1,312 @@
+.main {
+    background-color:  #FBF2E9;
+    height: 2320px;
+}
+
+.margin {
+   position: relative; 
+   display: contents;
+}
+
+.wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container1 {
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 600px;
+    height: 631.32px;
+    background-image:  linear-gradient(180deg, rgba(192, 253, 244, 0.790792) 3.05%, rgba(5, 155, 132, 0.664) 30.36%), url(../images/hotelbg600x631,32.jpg);
+    background-repeat: no-repeat;
+}
+
+.gplogo {
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 480px;
+    background-repeat: no-repeat;
+}
+
+.gplogoimg{
+    width: 152px;
+    height: 145px;
+}
+  
+.circle {
+    width: 155px;
+    height: 155px;
+    margin-top: 70px;
+    margin-bottom: 170px;
+    position: absolute;
+    border: 6px solid white;
+    border-radius: 20rem;
+    overflow: hidden;
+}
+
+.avatarcss {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.divname {
+    margin-top: 175px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-family: 'Lato';
+    font-size: 25px;
+}
+
+.divjabatan {
+    justify-content: center;
+    margin-top: 205px;
+    position: absolute;
+    background-color: rgba(72, 74, 80, 0.64);
+    padding: 2px 90px;
+    text-align: center;
+}
+
+.jabatan {
+    display: contents;
+    justify-content: center;
+    font-weight: lighter;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.notelp {
+    position: absolute;
+    margin-top: 320px;
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.cs1div {
+    margin-top: 620px;
+    position: relative;
+    justify-content: center;
+}
+
+.container2 {
+    height: 25px;
+    align-items: center;
+    text-align: center;
+    background-color: #F29438;
+}
+
+.cs2div {
+    display: contents;
+    position: absolute;
+    justify-content: center;
+    background: rgba(255, 254, 250, 0.81);
+}
+
+.desc {
+    background-color: rgba(255, 254, 250, 0.81);;
+    margin-left: 9%;
+    margin-right: 9%;
+    height: 118px;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    color: #AF9300;
+    border-left: 12px solid;
+    border-right: 12px solid;
+    border-bottom: 12px solid;
+    border-color: #F1EEE4;
+}
+
+.desc1 {
+    color: #565656;
+    align-items: center;
+    text-align: center;
+}
+
+.name {
+    display: inline-block;
+    margin-block-start: 25px;
+    margin-block-end: 50px;
+}
+
+.value {
+    margin-block-start: -30px;
+}
+
+.container3 {
+    display: flex; 
+    height: 310px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #AF9300;
+}
+
+.sosflex {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 340px;
+    margin-right: 34px;
+    gap: -10px;
+}
+
+.instagram,
+.tiktok,
+.whatsapp,
+.products {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 100px;
+    border-radius: 20rem;
+    overflow: hidden;
+}
+
+.igavatar {
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.tiktokavatar {
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.whatsappavatar {
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.productsavatar {
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    overflow: hidden;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.text1 {
+    position: relative;
+    margin-top: -375px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #ede2e2;
+    font-size: 11px;
+    font-weight: bold;
+    gap: 18px;
+}
+
+.imagediv {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    flex-wrap: wrap;
+  }
+  
+  .image1,
+  .image2,
+  .image3,
+  .image4 {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 320px;
+    height: 220px;
+    object-fit: cover;
+  }
+
+.googlemap {
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gembed {
+  object-fit: cover;
+}
+
+.divicon {
+    position: absolute;
+    height: 360px;
+}
+
+.icon {
+    width: 45px;
+    height: 26.38px;
+    background-image: url("../images/icons/locicon45x26,38.png");
+    background-repeat: no-repeat;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.footerset {
+    background-color: #EDEDED ;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    width: 90%;
+    margin-top: 3150px;
+    position: absolute;
+}
+
+.productstext {
+    text-decoration: none;
+    color: #ede2e2;
+}
+
+.cpy {
+    color: #454545;
+    margin-top: 220px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.divnotfound {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.textnf {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

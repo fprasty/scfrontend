@@ -1,0 +1,29 @@
+.thisGlobal{
+    text-align: center;
+}
+
+.divStatus{
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(30, 130, 97);
+}
+
+.thisStatus{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 75px;
+}
+
+.status{
+    display: inline-block;
+    font-size: 34px;
+    text-align: center;
+    color: azure;
+}
+
+.divTime{
+    font-size: 14px;
+}
+
